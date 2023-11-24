@@ -38,7 +38,7 @@ public class AppDemoHerencia {
                 "C:\\Users\\israe\\OneDrive\\Pictures\\tele.jpeg", television);
         frame.add(iuTelevision);
 
-        frame.setSize(250, 250); // Ajusta el tamaño del frame según tus necesidades.
+        frame.setSize(250, 250); 
         frame.setVisible(true);
     }
 }
