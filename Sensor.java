@@ -8,7 +8,7 @@ package gerardo.gonzalez.uabc.appdemoherencia;
  * Sensor.
  * 
  * @author Gerardo G. Vazquez. 
- * @version 17/Mayo/2023
+ * @version 24/Noviembre/2023
  */
 public class Sensor extends ComponenteElectronico
 {

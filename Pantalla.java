@@ -8,7 +8,7 @@ package gerardo.gonzalez.uabc.appdemoherencia;
  * Pantalla.
  * 
  * @author Gerardo G. Vazquez. 
- * @version 17/Mayo/2023
+ * @version 24/Noviembre/2023
  */
 public class Pantalla extends ComponenteElectronico {
     private final int resolucionX;
