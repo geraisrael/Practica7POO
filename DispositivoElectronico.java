@@ -4,16 +4,13 @@
  */
 package gerardo.gonzalez.uabc.appdemoherencia;
 
-/**
- *
- * @author israe
- */
+
 import java.util.ArrayList;
 /**
  * DispositivoElectronico .
  * 
  * @author Gerardo G. Vazquez 
- * @version 17/mayo/2023
+ * @version 24/Noviembre/2023
  */
 public class DispositivoElectronico
 {
